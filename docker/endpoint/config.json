@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "origin": "client",
+        "size": 50,
+        "entropy": 1.0,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "",
+        "delay": 0.04,
+        "sample": "REREk0TbRETbRERERERERETbRERERERERETbRERERERERMPbw0RE20REk0REREREREQ="
+    },
+    {
+        "id": "2",
+        "origin": "client",
+        "size": 70,
+        "entropy": 1.5025125628140703,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "1",
+        "delay": 0.04,
+        "sample": "Xl7DXsPDXsNqXsNeJF5ewyReXsNeXl4kXsNeJF7DXl5eXl5eXl5qasNeXl5ew15qJF5eXl5qXl4kXiReal5ew15eXl5eww=="
+    },
+    {
+        "id": "3",
+        "origin": "client",
+        "size": 90,
+        "entropy": 2.0050251256281406,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "2",
+        "delay": 0.04,
+        "sample": "yXl5bsnJbm7OeW7JyXl5l8nJyXmXl87Oecl5ycnOycnJbpfJyXnJbnnJeXnJyc5uecl5ycnJycnJbnl5l5fJycmXzs6XycnJycmXycl5eXnJycl5zsnOl5fJ"
+    },
+    {
+        "id": "4",
+        "origin": "client",
+        "size": 110,
+        "entropy": 2.507537688442211,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "3",
+        "delay": 0.04,
+        "sample": "LsnipDIuLi4u4i8u4smkycl4yckvycnJeOLJLsniyTLiLuLiyckyycnJLy/JyckuycmkyeIvLzIu4qSkycmkyckvyckuLskyLskvpHjJMi7iMjLJ4i4vLuKkyS/JyS+kyeIveMnJ4njJ4sniMuI="
+    },
+    {
+        "id": "5",
+        "origin": "client",
+        "size": 130,
+        "entropy": 3.0100502512562812,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "4",
+        "delay": 0.04,
+        "sample": "leLq4jnihDl44jk54uKV98k5Ock5yTIy98nq4uIyhMk56ng54urJOeLirDLJ4jkyOXh44sk5MpWVhOL34uri4vni4uI5OcnqhHjiMuLJ4niVeHjieITiyTmVOeLqlYR4MuIy4uLJOZXiMnjieOJ44sk5eOqE4vfieDnileL3lXj39w=="
+    },
+    {
+        "id": "6",
+        "origin": "server",
+        "size": 150,
+        "entropy": 3.512562814070352,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "5",
+        "delay": 0.04,
+        "sample": "GXmigaLCQ7y8T0/Ewk/CCWCBwcG8wcJDosLCwrx5gUJPwiC8eYEJYENDwXnCwbyiwsIZvE9DGcJPwbzEQ3ljvKLCIMHCT8JCwqJ5gcF5T8J5wiBDgWBCwsJ5xMLCeYFjwkO8eU+8wsRPYMLCwkOBgU+8gU/BwkNPeU9DwmO8wsFDQ4FjecLEeaIZeU+ieWC8YLzCT7zC"
+    },
+    {
+        "id": "7",
+        "origin": "server",
+        "size": 170,
+        "entropy": 4.015075376884422,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "6",
+        "delay": 0.04,
+        "sample": "xLy8UjpjwqptecJPT8LCwsFDs0A6s8S8vI5PQEBtY46zOrzCwk/CecKzvFKqbarCQ8GqvMRts6ptTzqqqkA6Y8LEqjovTxnBL+fCwsFjQIGqvLOBwXnCUrxtqnl5OsLCwkDEQ4FPY1JDvMSBT6rCQ0O8s8SOwY5DQzpPwlLEs086OsGqeZ2BvHmqOnmqbUNjxEBjwry8jrzEOjpPwsRPUkNDecF5vEBtwoE="
+    },
+    {
+        "id": "8",
+        "origin": "server",
+        "size": 190,
+        "entropy": 4.517587939698492,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "7",
+        "delay": 0.04,
+        "sample": "hQJDOlv3qmNPAvn3+ff3eQICeXlDOlJSUXn39/qzUm1eebMCY8H396rBOnl5gQLBY1H6wm33OoX5W08CwcH3wrz3qjpS+sE6QKo6QEP3hXmBebPCqmP6+ff390/BwcKqUsHCqk+qvFInY/oCQDqOjkBPW0/3Y2M6ebOqwoXEW4VDwnlDwUBjAlFP+UNSwQKBao5ts4U6vI6FhcRST3mBQ7Oq+bzC920CwWPLxFGzAvpPY8L6ecSOvEN5tE9PvA=="
+    },
+    {
+        "id": "9",
+        "origin": "server",
+        "size": 210,
+        "entropy": 5.0201005025125625,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "8",
+        "delay": 0.04,
+        "sample": "LVuFjrNAbLxxKGNAKJT39/dRecT5s45SOm1j+lFDrEmoLW28s2PCqIE6AogtvI5sH7wfQMQ6Q7yocVJJgUOowih5+gL6AgJ5lALCwW2ObZQoOgIocbPBpKq8+oWIY1HC+k+IxFvCjsFDgVv5vIVxAqhDH3ECQ09SW6iOQLNRY23CbCiOH0lbvB9jvEnEOjr5n1FxQKh5Y6gfxMSFxCg6Q4W8jkCIwp6q+feUKCjEjm1JbfdxUWzBxPkCSYVbH22ogaqzW1uOUXGq9515TzqzxLyU"
+    },
+    {
+        "id": "10",
+        "origin": "server",
+        "size": 230,
+        "entropy": 5.522613065326633,
+        "protocol": "tcp",
+        "flags": 0,
+        "dependence": "9",
+        "delay": 0.04,
+        "sample": "cnH5vMEC/nBPgfrfwToYwY5j+UzSjpRsJ7HEpAKziFF1uMTCTygodQI6T/d1cHDSGHFsKFEtKE+qUsJj0ueInS0fiP5MGAJ5D4H+bedbWz9ShVIdY3mbH6o/qFsPwbwnQ8JAAh2zct/EHYEndXDBTKiU55RSOh9t+dJbD0wCbZQdAsHCcLOO59JJUQI6P0PBgagnP3EnP/m4qpR1vEBt0mwdjhhSQN9SQA8PW8JAlN8o3/qmTGP3vDotqnVASVuqqm36SYhwGN/fed9RLT+BwRiOOojfoR28+ve4lB0d547ncEl193E="
+    }
+]
